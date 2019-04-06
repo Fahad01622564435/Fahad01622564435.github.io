@@ -1,0 +1,35 @@
+body { 
+	/* Image Location */ 
+	background-image: url("img/saiful.jpg"); 
+
+	 /* Background image is centered vertically and horizontally at all times */ 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-size: cover; 
+    background-color: #464646; 
+    /* Font Colour */ 
+    color:white; 
+} 
+table{
+	width:650px;
+}
+#div1{
+	float:left;	
+}
+#div2{
+	float:left;	
+	margin-left:5px;
+}
+#div3{
+	float:left;	
+	margin-left:5px;
+}
+#div4{
+	float:left;	
+	margin-left:5px;
+}
+#div5{
+	float:left;	
+	margin-left:5px;
+}
